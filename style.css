@@ -1,4 +1,13 @@
 body {
     background-color: black;
     color:white;
+    margin: 0px;
 }
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);  // borda inferior.
+    padding: 20px; // espaçamento interno
+    font-size: 32px; // tamanho da fonte
+    color: rgb(42, 122, 228);
+}
+
